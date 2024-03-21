@@ -1,5 +1,4 @@
-# 02 - Architect and deploy a multi-tier application using cloud-native services (e.g., web server, database,
-caching layer).
+# 02 - Architect and deploy a multi-tier application using cloud-native services (e.g. frontend app, backend app, database,etc)
 This guide is a part of the CozyCloud Project Challenge, where I took ownership of implementing the project idea from conception to completion. While the initial idea didn't originate from me, I meticulously executed the project for practical purposes, and this piece serves as my process documentation.
 ## Introduction
 <p> I deployed a secure N-tier web application using cloud-native services such as Azure App Service, DNS, and others on     Azure, and integrated a caching layer. This tutorial is adapted from Microsoft's documentation on building an N-tier     application using Azure App Service <a href="https://learn.microsoft.com/en-us/azure/app-service/tutorial->Secure N-     tier Web App.</a>
